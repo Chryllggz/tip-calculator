@@ -21,4 +21,4 @@ selected percentage.
 - VS Code
 
 ## Screenshot
-Insert your application screenshot here.
+![Tip Calculator Screenshot] (screenshot.png)
